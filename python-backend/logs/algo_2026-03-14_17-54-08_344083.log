@@ -1,0 +1,13 @@
+2026-03-14 17:54:13.680 | ERROR    | utils:log_error:55 - [ERROR] Login: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:54:13.697 | ERROR    | utils:log_error:55 - [ERROR] Login: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:54:13.705 | ERROR    | utils:log_error:55 - [ERROR] Fetch Candles: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:54:13.775 | ERROR    | utils:log_error:55 - [ERROR] Fetch Candles: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:54:13.997 | ERROR    | utils:log_error:55 - [ERROR] Login: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:54:14.025 | ERROR    | utils:log_error:55 - [ERROR] Positions: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:54:14.277 | ERROR    | utils:log_error:55 - [ERROR] Login: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:54:14.282 | ERROR    | utils:log_error:55 - [ERROR] Get Margin: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:54:14.804 | INFO     | login:create_session:40 - [LOGIN] Session created for P145829
+2026-03-14 17:54:16.815 | ERROR    | utils:log_error:55 - [ERROR] Login: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:54:16.839 | INFO     | login:create_session:40 - [LOGIN] Session created for P145829
+2026-03-14 17:54:16.849 | ERROR    | utils:log_error:55 - [ERROR] Fetch Candles: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:54:17.800 | INFO     | login:create_session:40 - [LOGIN] Session created for P145829

@@ -1,0 +1,5 @@
+2026-03-14 17:43:19.466 | ERROR    | utils:log_error:55 - [ERROR] Login: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:43:19.471 | ERROR    | utils:log_error:55 - [ERROR] Fetch Candles: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:43:20.634 | INFO     | login:create_session:40 - [LOGIN] Session created for P145829
+2026-03-14 17:43:21.304 | INFO     | login:create_session:40 - [LOGIN] Session created for P145829
+2026-03-14 17:43:21.791 | INFO     | login:create_session:40 - [LOGIN] Session created for P145829

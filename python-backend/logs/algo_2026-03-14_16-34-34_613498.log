@@ -1,0 +1,2 @@
+2026-03-14 16:34:53.072 | INFO     | login:create_session:40 - [LOGIN] Session created for P145829
+2026-03-14 16:34:53.222 | INFO     | data_feed:on_open:63 - [WS] Connected

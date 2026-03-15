@@ -1,0 +1,5 @@
+2026-03-14 16:19:35.287 | ERROR    | utils:log_error:55 - [ERROR] Login: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 16:19:35.289 | ERROR    | utils:log_error:55 - [ERROR] Positions: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 16:19:35.384 | ERROR    | utils:log_error:55 - [ERROR] Login: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 16:19:35.384 | ERROR    | utils:log_error:55 - [ERROR] Get Margin: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 16:19:35.727 | INFO     | login:create_session:40 - [LOGIN] Session created for P145829

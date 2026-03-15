@@ -1,0 +1,10 @@
+2026-03-14 17:57:12.491 | ERROR    | utils:log_error:55 - [ERROR] Login: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:57:12.506 | ERROR    | utils:log_error:55 - [ERROR] Login: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:57:12.510 | ERROR    | utils:log_error:55 - [ERROR] Fetch Candles: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:57:12.520 | ERROR    | utils:log_error:55 - [ERROR] Fetch Candles: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:57:14.300 | ERROR    | utils:log_error:55 - [ERROR] Login: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:57:14.313 | ERROR    | utils:log_error:55 - [ERROR] Positions: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:57:14.324 | INFO     | login:create_session:40 - [LOGIN] Session created for P145829
+2026-03-14 17:57:14.464 | ERROR    | utils:log_error:55 - [ERROR] Login: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:57:14.464 | ERROR    | utils:log_error:55 - [ERROR] Get Margin: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 17:57:15.363 | INFO     | login:create_session:40 - [LOGIN] Session created for P145829

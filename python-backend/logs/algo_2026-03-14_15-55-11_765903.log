@@ -1,0 +1,6 @@
+2026-03-14 15:55:32.492 | INFO     | login:create_session:40 - [LOGIN] Session created for P145829
+2026-03-14 15:55:32.640 | INFO     | data_feed:on_open:63 - [WS] Connected
+2026-03-14 16:04:34.585 | ERROR    | utils:log_error:55 - [ERROR] Positions: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 16:04:44.566 | ERROR    | utils:log_error:55 - [ERROR] Positions: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+2026-03-14 16:06:58.127 | INFO     | login:create_session:40 - [LOGIN] Session created for P145829
+2026-03-14 16:06:58.281 | INFO     | data_feed:on_open:63 - [WS] Connected
